@@ -5,12 +5,9 @@
 - You'll find the **backend code** for the application, written in **Go**, along with some **ingestion microservices** written in **Python** with ongoing migrations planned to Go.
 - There is also the **webapp** for the application and I'm also currently working on a **Swift** version of the app for iOS.
 - 🌐 **Live Site:** You can view the webapp at [treblesurf.com](https://treblesurf.com) (Best optimized for mobile).
+- Over the past 2 years, all parts of the application have gone through major changes and rewrites. This includes migrating the backend from **Python/Flask** to **Go/Gin** and migrating from **Google Cloud/Firebase** to **AWS**. 
 
 ---
-
-### 🛠 Tech Stack
-> Over the past 2 years, all parts of the application have gone through major changes and rewrites. This includes migrating the backend from **Python/Flask** to **Go/Gin** and migrating from **Google Cloud/Firebase** to **AWS**. 
-
 **Languages & Frameworks**
  - Go, Gin, Python, Flask, Vue
 
