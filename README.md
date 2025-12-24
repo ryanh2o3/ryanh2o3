@@ -1,9 +1,5 @@
 # 👋 Hi there, I'm Ryan
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryanh2o3&show_icons=true&theme=tokyonight" alt="Ryan's GitHub Stats" />
-</p>
-
 ### 🔭 Currently Working On
 - I’m currently working on a **surf forecasting app** for my local surf spots so that's what most of the repos here revolve around.
 - You'll find the **backend code** for the application, written in **Go**, along with some **ingestion microservices** written in **Python** with ongoing migrations planned to Go.
@@ -30,6 +26,3 @@
 
 ---
 
-### 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanh2o3&layout=compact&theme=tokyonight)
-[![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=ryanh2o3)](https://github.com/ryanh2o3/github-readme-stats)
