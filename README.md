@@ -12,19 +12,14 @@
 
 ---
 
-### 🛠 Tech Stack & Experience
+### 🛠 Tech Stack
 > Over the past 2 years, all parts of the application have gone through major changes and rewrites. This includes migrating the backend from **Python/Flask** to **Go/Gin** and migrating from **Google Cloud/Firebase** to **AWS**. 
 
 **Languages & Frameworks**
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00838F?style=for-the-badge&logo=go&logoColor=white)
+Go, Gin, Python, Flask, Vue
 
 **Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+AWS, Dynamo, Lambda, Google cloud run
 
 *The backend is now hosted in a Lambda using DynamoDB which keeps the running costs very low for me.*
 
