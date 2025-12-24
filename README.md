@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a surf forecasting app for my local surf spots so that's what most of the repos here revolve around.
 - You'll find the backend code for the application, written in Go, along with some ingestion microservices written in python with ongoing migrations planned to go
 - There is also the webapp for the application and I'm also currently working on a Swift version of the app for ios
-- You can view the webapp at [treblesurf.com](https://treblesurf.com)
+- You can view the webapp at [treblesurf.com](https://treblesurf.com) - it is best optimised for mobile, the desktop responsive size isn't ideally optimised.
+- Over the past 2 years, all parts of the application have gone through major changes and rewrites. This includes migrating the backend from python/flask to go/gin and migrating from google cloud and firebase to aws. The backend is now hosted in a lambda using dynamodb which keeps the running costs very low for me. 
