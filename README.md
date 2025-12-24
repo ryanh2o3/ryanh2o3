@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Ryan
 
 <!--
 **ryanh2o3/ryanh2o3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on a surf forecasting app for my local surf spots so that's what most of the repos here revolve around.
+- You'll find the backend code for the application, written in Go, along with some ingestion microservices written in python with ongoing migrations planned to go
+- There is also the webapp for the application and I'm also currently working on a Swift version of the app for ios
+- You can view the webapp at treblesurf.com
