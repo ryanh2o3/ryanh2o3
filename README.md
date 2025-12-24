@@ -1,23 +1,39 @@
-## Hi there I'm Ryan
+# 👋 Hi there, I'm Ryan
 
-<!--
-**ryanh2o3/ryanh2o3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ryanh2o3&show_icons=true&theme=tokyonight" alt="Ryan's GitHub Stats" />
+</p>
 
-Here are some ideas to get you started:
+### 🔭 Currently Working On
+- I’m currently working on a **surf forecasting app** for my local surf spots so that's what most of the repos here revolve around.
+- You'll find the **backend code** for the application, written in **Go**, along with some **ingestion microservices** written in **Python** with ongoing migrations planned to Go.
+- There is also the **webapp** for the application and I'm also currently working on a **Swift** version of the app for iOS.
+- 🌐 **Live Site:** You can view the webapp at [treblesurf.com](https://treblesurf.com) (Best optimized for mobile).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently working on a surf forecasting app for my local surf spots so that's what most of the repos here revolve around.
-- You'll find the backend code for the application, written in Go, along with some ingestion microservices written in python with ongoing migrations planned to go
-- There is also the webapp for the application and I'm also currently working on a Swift version of the app for ios
-- You can view the webapp at [treblesurf.com](https://treblesurf.com) - it is best optimised for mobile, the desktop responsive size isn't ideally optimised.
-- Over the past 2 years, all parts of the application have gone through major changes and rewrites. This includes migrating the backend from python/flask to go/gin and migrating from google cloud and firebase to aws. The backend is now hosted in a lambda using dynamodb which keeps the running costs very low for me.
+---
 
-- Other things you'll find in here include a small Boat tracking project I worked on to run on a raspberry pi posting location data to a server to linking into home assistant. 
+### 🛠 Tech Stack & Experience
+> Over the past 2 years, all parts of the application have gone through major changes and rewrites. This includes migrating the backend from **Python/Flask** to **Go/Gin** and migrating from **Google Cloud/Firebase** to **AWS**. 
+
+**Languages & Frameworks**
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00838F?style=for-the-badge&logo=go&logoColor=white)
+
+**Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+
+*The backend is now hosted in a Lambda using DynamoDB which keeps the running costs very low for me.*
+
+---
+
+### ⛵ Other Projects
+- **Boat Tracking Project:** A small project I worked on to run on a **Raspberry Pi**, posting location data to a server to link into **Home Assistant**.
+
+---
+
+### 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanh2o3&layout=compact&theme=tokyonight)
