@@ -12,7 +12,7 @@
  - Go, Gin, Python, Flask, Vue
 
 **Cloud & Infrastructure**
- - AWS, Dynamo, Lambda, Google cloud run
+ - AWS, Dynamo, Lambda, Google cloud
 
 *The backend is now hosted in a Lambda using DynamoDB which keeps the running costs very low for me.*
 
