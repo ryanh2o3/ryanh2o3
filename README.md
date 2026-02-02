@@ -5,7 +5,9 @@
 - You'll find the **backend code** for the application, written in **Go**, along with some **ingestion microservices** written in **Python** with ongoing migrations planned to Go.
 - There is also the **webapp** for the application and I'm also currently working on a **Swift** version of the app for iOS.
 - 🌐 **Live Site:** You can view the webapp at [treblesurf.com](https://treblesurf.com) (Best optimized for mobile).
-- Over the past 2 years, all parts of the application have gone through major changes and rewrites. This includes migrating the backend from **Python/Flask** to **Go/Gin** and migrating from **Google Cloud/Firebase** to **AWS**. 
+- Over the past 2 years, all parts of the application have gone through major changes and rewrites. This includes migrating the backend from **Python/Flask** to **Go/Gin** and migrating from **Google Cloud/Firebase** to **AWS**.
+
+- Recently started a photo sharing social media app. currently only the backend is public. still working on the ios and android apps. The backend is built in Rust (still new to it). The client apps will be in swift and kotlin. I intend on it being open-source, centrally hosted but aim to keep it personally or publicly funded. This is a passion project and something to fuhfill a public need - to me: mid 2010s social media but without any algorithmic addictiveness.
 
 ---
 **Languages & Frameworks**
